@@ -1,3 +1,6 @@
-# WXT + React
+# LinkedIn Chat AI
+## Preview
 
-This template should help get you started developing with React in WXT.
+
+https://github.com/user-attachments/assets/ab4a1f4b-e14a-47ad-b554-28297d135636
+
